@@ -1,9 +1,9 @@
 # WooCommerce Disable Notices
 
-Contributors: jconroy    
-Tags: woocommerce, actions, notices
+Contributors: jconroy  
+Tags: woocommerce, actions, notices  
 Tested up to: 4.0  
-Stable tag: 1.0
+Stable tag: 1.0  
 
 Disables the WooCommerce admin notices.
 
